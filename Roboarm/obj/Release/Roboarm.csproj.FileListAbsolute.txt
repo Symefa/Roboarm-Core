@@ -1,0 +1,8 @@
+D:\Roboarm\Roboarm\bin\Release\Roboarm.exe
+D:\Roboarm\Roboarm\bin\Release\Roboarm.pdb
+D:\Roboarm\Roboarm\obj\Release\Roboarm.csprojResolveAssemblyReference.cache
+D:\Roboarm\Roboarm\obj\Release\Roboarm.Form1.resources
+D:\Roboarm\Roboarm\obj\Release\Roboarm.Properties.Resources.resources
+D:\Roboarm\Roboarm\obj\Release\Roboarm.csproj.GenerateResource.Cache
+D:\Roboarm\Roboarm\obj\Release\Roboarm.exe
+D:\Roboarm\Roboarm\obj\Release\Roboarm.pdb

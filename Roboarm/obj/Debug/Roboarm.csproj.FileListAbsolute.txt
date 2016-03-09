@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\bin\Debug\Roboarm.exe
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\bin\Debug\Roboarm.pdb
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.exe
+c:\users\user\documents\visual studio 2013\Projects\Roboarm\Roboarm\obj\Debug\Roboarm.pdb
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.exe
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.pdb
+D:\Roboarm\Roboarm\bin\Debug\Roboarm.exe
+D:\Roboarm\Roboarm\bin\Debug\Roboarm.pdb
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.csprojResolveAssemblyReference.cache
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.Form1.resources
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.Properties.Resources.resources
+D:\Roboarm\Roboarm\obj\Debug\Roboarm.csproj.GenerateResource.Cache
